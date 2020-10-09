@@ -2,4 +2,4 @@
 <img src="https://readme-github-stats.now.sh/api?username=YajTPG&theme=blue-green&show&icons=true">
 <img src="https://readme-github-stats.now.sh/api/wakatime/?username=YajTPG&theme=blue-green&show&icons=true">
 
-Be Check out my [Pterodactyl Panel Eggs](https://github.com/yajtpg/pterodactyl-eggs)
+Be sure to check out my [Pterodactyl Panel Eggs](https://github.com/yajtpg/pterodactyl-eggs)
